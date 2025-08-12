@@ -1,6 +1,6 @@
 # Hello! Welcome to my LeetCode Profile 👋
 
-I have solved **104 problems** on LeetCode.
+I have solved **100+ problems** on LeetCode.
 
 You can check out my LeetCode profile here:  
 [https://leetcode.com/u/gag_khalafyan/](https://leetcode.com/u/gag_khalafyan/)
